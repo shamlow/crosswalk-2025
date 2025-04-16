@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/",
-    "/content/aem-boilerplate/configuration:/.helix/config.json",
-    "/content/aem-boilerplate/metadata:/metadata.json"
+    "/content/crosswalk-2025/:/",
+    "/content/crosswalk-2025/configuration:/.helix/config.json",
+    "/content/crosswalk-2025/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/crosswalk-2025/"
   ]
 }
